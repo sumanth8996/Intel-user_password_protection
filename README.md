@@ -81,6 +81,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
 
----
-
-Feel free to replace `yourusername` and `your-email@example.com` with your actual GitHub username and email address.

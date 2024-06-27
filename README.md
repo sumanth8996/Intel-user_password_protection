@@ -14,7 +14,7 @@ This project is a simple file encryption and decryption tool built using Python 
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/file-encryption-tool.git
+    git clone https://github.com/sumanth8996/Intel-user_password_protection.git
     cd file-encryption-tool
     ```
 

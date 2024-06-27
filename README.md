@@ -15,7 +15,7 @@ This project is a simple file encryption and decryption tool built using Python 
 
     ```sh
     git clone https://github.com/sumanth8996/Intel-user_password_protection.git
-    cd file-encryption-tool
+    cd Intel-user_password_protection-main
     ```
 
 2. **Install the required dependencies:**
@@ -31,7 +31,7 @@ This project is a simple file encryption and decryption tool built using Python 
 1. **Run the application:**
 
     ```sh
-    python file_encryption_tool.py
+    python enc_file.py
     ```
 
 2. **Encrypt a file:**
@@ -79,5 +79,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, please contact [your-email@example.com](mailto:skallaha@gittam.in).
 

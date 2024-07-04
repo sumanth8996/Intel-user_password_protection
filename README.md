@@ -39,7 +39,11 @@ This project is a simple file encryption and decryption tool built using Python 
     - Run the script and choose the encryption option.
     - Enter the path of the file you want to encrypt.
     - Enter a passphrase for encryption.
+file:///home/sumanth/projects/Screenshot_20240704_131331.png
+
     - The file will be encrypted, and the FEK and salt will be stored in a separate file with the `.fek` extension.
+
+file:///home/sumanth/projects/Screenshot_20240704_131433.png
 
 3. **Decrypt a file:**
 
@@ -79,5 +83,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please contact [your-email@example.com](mailto:skallaha@gittam.in).
+For any questions or suggestions, please contact [skallaha@gitam.in](mailto:skallaha@gittam.in).
 

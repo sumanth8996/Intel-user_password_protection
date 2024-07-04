@@ -39,11 +39,11 @@ This project is a simple file encryption and decryption tool built using Python 
     - Run the script and choose the encryption option.
     - Enter the path of the file you want to encrypt.
     - Enter a passphrase for encryption.
-file:///home/sumanth/projects/Screenshot_20240704_131331.png
+![Screenshot_20240704_131331](https://github.com/sumanth8996/Intel-user_password_protection/assets/106905586/94a738e1-cbf4-46dc-bfb5-3e3658099294)
 
     - The file will be encrypted, and the FEK and salt will be stored in a separate file with the `.fek` extension.
 
-file:///home/sumanth/projects/Screenshot_20240704_131433.png
+![Screenshot_20240704_131331](https://github.com/sumanth8996/Intel-user_password_protection/assets/106905586/837bcf98-2a37-4139-8ac8-9f24ffacbb31)
 
 3. **Decrypt a file:**
 

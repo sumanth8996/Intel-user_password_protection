@@ -43,14 +43,18 @@ This project is a simple file encryption and decryption tool built using Python 
 
     - The file will be encrypted, and the FEK and salt will be stored in a separate file with the `.fek` extension.
 
-![Screenshot_20240704_131331](https://github.com/sumanth8996/Intel-user_password_protection/assets/106905586/837bcf98-2a37-4139-8ac8-9f24ffacbb31)
+![Screenshot_20240704_131433](https://github.com/sumanth8996/Intel-user_password_protection/assets/106905586/a3280250-4894-4d83-8b1d-eefd52d8d816)
 
 3. **Decrypt a file:**
 
     - Run the script and choose the decryption option.
     - Enter the path of the file you want to decrypt.
     - Enter the passphrase used for encryption.
+   ![Screenshot_20240704_140747](https://github.com/sumanth8996/Intel-user_password_protection/assets/106905586/9d3a056e-2126-43e5-bc8e-508586a8ee0f)
+
     - The file will be decrypted, and the `.fek` file will be deleted.
+   ![Screenshot_20240704_140818](https://github.com/sumanth8996/Intel-user_password_protection/assets/106905586/256651b6-294b-4cf4-b3ee-8bd0e04bda9b)
+
 
 ## Code Overview
 
